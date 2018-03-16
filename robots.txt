@@ -1,0 +1,5 @@
+# Robots
+User-agent: *
+Disallow: /
+Disallow: /ThinkPHP/
+Disallow: /Public/
